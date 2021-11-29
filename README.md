@@ -1,0 +1,3 @@
+- Merhaba ben Nidass
+- Yalnız çalışıyorum
+- discord için bot yapıyorum
